@@ -143,6 +143,8 @@ Reference application and examples for:
     
 **Manipulation**
 
+[(Begineer) Robotic Manipulators Course Modules (Curriculum)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) Live script lessons covering fundamental concepts for manipulation. Covering point translations/rotations, transformation matrices, DH parameters and more.
+
 [(Beginner) Forward/Inverse Kinematics of 2-link robots [Interactive Example]](https://www.mathworks.com/matlabcentral/fileexchange/69892-inverse-kinematics-of-a-2-link-robot-arm?s_tid=srchtitle)
 Example and simulation explaining how to derive forward/inverse kinematics, and jacobian of a 2-link chain. With final project robot writing "hello" with end effector.
 
@@ -177,7 +179,9 @@ No content yet :'( Any suggestions for this topic?
 [(Begineer) Reinforcement Learning Onramp [Self-Paced Course]](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning)
         3 Hour interactive tutorial covering Reinforcement learning overview, defining environments, defining agents, and training agents.
 
-[(Intermediate) Q-learning for 4-Link robot walker [Interactive Simulator]](https://www.mathworks
+[(Intermediate) Q-learning for 4-Link robot walker (Interactive Simulator)](https://www.mathworks.com/matlabcentral/fileexchange/72928-4-link-robotic-simulator?s_tid=srchtitle) Kinematic simulator for 4-link robot walking demonstrating practical programming, inverse kinematics, Q-learning for motion control, and simulated annealing.
+
+[(Intermediate) Reinforcement Learning with MATLAB (Curriculum)](https://www.mathworks.com/matlabcentral/fileexchange/111460-reinforcement-learning-rl-with-matlab) 4 Learning Modules on reinforcement learning covering Q-learning for MDP, Stochastic Gridwrold with DQN, thermal control with DDPG Agent, and robot walking.
   
 
 ## Instruction and Grading Tools
