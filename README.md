@@ -143,12 +143,12 @@ Reference application and examples for:
     
 **Manipulation**
 
-[(Begineer) Robotic Manipulators Course Modules (Curriculum)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) Live script lessons covering fundamental concepts for manipulation. Covering point translations/rotations, transformation matrices, DH parameters and more.
+[(Beginner) Robotic Manipulators Course Modules (Curriculum)](https://www.mathworks.com/matlabcentral/fileexchange/130124-robotic-manipulators) Live script lessons covering fundamental concepts for manipulation. Covering point translations/rotations, transformation matrices, DH parameters and more.
 
 [(Beginner) Forward/Inverse Kinematics of 2-link robots [Interactive Example]](https://www.mathworks.com/matlabcentral/fileexchange/69892-inverse-kinematics-of-a-2-link-robot-arm?s_tid=srchtitle)
 Example and simulation explaining how to derive forward/inverse kinematics, and jacobian of a 2-link chain. With final project robot writing "hello" with end effector.
 
-[(Begineer) Workspace Analysis of Planar n-DOF robots [Example]](https://www.mathworks.com/matlabcentral/fileexchange/71136-plotworkspace-plot-workspace-of-n-dof-planar-robot?s_tid=srchtitle)
+[(Beginner) Workspace Analysis of Planar n-DOF robots [Example]](https://www.mathworks.com/matlabcentral/fileexchange/71136-plotworkspace-plot-workspace-of-n-dof-planar-robot?s_tid=srchtitle)
 Use this function to visualize and analyze the workspaces of planar robots from their DH parameters.
 
 [(Intermediate) Modeling and Control of Serial Manipulators using Dual-Quaternions](https://github.com/dqrobotics/learning-dqrobotics-in-matlab/tree/master/robotic_manipulators)
@@ -176,7 +176,7 @@ No content yet :'( Any suggestions for this topic?
 
 **Reinforcement Learning**
 
-[(Begineer) Reinforcement Learning Onramp [Self-Paced Course]](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning)
+[(Beginner) Reinforcement Learning Onramp [Self-Paced Course]](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning)
         3 Hour interactive tutorial covering Reinforcement learning overview, defining environments, defining agents, and training agents.
 
 [(Intermediate) Q-learning for 4-Link robot walker (Interactive Simulator)](https://www.mathworks.com/matlabcentral/fileexchange/72928-4-link-robotic-simulator?s_tid=srchtitle) Kinematic simulator for 4-link robot walking demonstrating practical programming, inverse kinematics, Q-learning for motion control, and simulated annealing.
@@ -191,7 +191,7 @@ No content yet :'( Any suggestions for this topic?
 
 ## More content
 Didn't find what you were looking for? Try the following links to more teaching resources:
-* [MATLAB and Simulink Courseware search](https://www.mathworks.com/academia/courseware.html)
+* [MATLAB and Simulink Courseware search](https://www.mathworks.com/academia/courseware/search.html?q=&fq%5B%5D=courseware_discipline:support/robotics-1508&page=1)
 * [MATLAB File Exchange search](https://www.mathworks.com/matlabcentral/fileexchange/)
 
 *Did we miss something?*
