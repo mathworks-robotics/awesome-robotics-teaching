@@ -174,10 +174,13 @@ No content yet :'( Any suggestions for this topic?
 
 ### Machine Learning
 
-**Reinforcement Learning**
+**Deep Learning and Reinforcement Learning**
 
 [(Beginner) Reinforcement Learning Onramp [Self-Paced Course]](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning)
         3 Hour interactive tutorial covering Reinforcement learning overview, defining environments, defining agents, and training agents.
+        
+[(Intermediate) AI for Robotics Workshop [Examples]](https://github.com/mathworks-robotics/ai-robotics-workshop)
+        Examples and lessons on how to develop a mobile robot using AI for perception and control in both simulation and with an Nvidia JetBot.
 
 [(Intermediate) Q-learning for 4-Link robot walker (Interactive Simulator)](https://www.mathworks.com/matlabcentral/fileexchange/72928-4-link-robotic-simulator?s_tid=srchtitle) Kinematic simulator for 4-link robot walking demonstrating practical programming, inverse kinematics, Q-learning for motion control, and simulated annealing.
 
