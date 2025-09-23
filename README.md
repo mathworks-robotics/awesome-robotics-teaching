@@ -31,7 +31,7 @@ Looking for content specific to robotics applications? Check out the [Awesome-MA
 * [Quanser Pick and Place labs](https://www.mathworks.com/matlabcentral/fileexchange/125250-quanser-qarm-pick-and-place-using-mathworks-toolboxes)
 * [VEX Robotics V5 support](https://www.mathworks.com/matlabcentral/fileexchange/68649-simulink-coder-support-package-for-vex-edr-v5-robot-brain)
 * [Turtlebot support](https://www.mathworks.com/matlabcentral/fileexchange/55578-ros-toolbox-support-package-for-turtlebot-based-robots)
-* [ROS on Raspberry Pi](https://www.mathworks.com/help/supportpkg/raspberrypi/ref/getting-started-with-robot-operating-system-ros-on-raspberry-pi-r.html)
+* [ROS on Raspberry Pi](https://www.mathworks.com/help/simulink/supportpkg/raspberrypi_ref/getting-started-with-robot-operating-system-ros-on-raspberry-pi-r.html)
 
 ## Learning Topics
 ### Introduction to Robotics
